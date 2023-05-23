@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test</title>
+    <link href="https://github.com/creativeer/publii-test.git/feed.xml" rel="self" />
+    <link href="https://github.com/creativeer/publii-test.git" />
+    <updated>2023-05-23T11:02:18+02:00</updated>
+    <author>
+        <name>test</name>
+    </author>
+    <id>https://github.com/creativeer/publii-test.git</id>
+
+    <entry>
+        <title>dfgdfgfdgdfg</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://github.com/creativeer/publii-test.git/dfgdfgfdgdfg.html"/>
+        <id>https://github.com/creativeer/publii-test.git/dfgdfgfdgdfg.html</id>
+
+        <updated>2023-05-23T11:02:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                    fdsfsdfdsfsdfdsfdsfsdfdsfsdfdsf sdfsdfdsfdsfds sdfdsfdssfsdf DSFDSFDFDSFDSFDSFDS dfsfdsfdsfdssdfsdfsdfdssdfdsfsdfsddfsdfsdfds
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    fdsfsdfdsfsdfdsfdsfsdfdsfsdfdsf
+  </p>
+
+  <p>
+    sdfsdfdsfdsfds
+  </p>
+
+  <p>
+    sdfdsfdssfsdf<br>DSFDSFDFDSFDSFDSFDS<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://github.com/creativeer/publii-test.git/media/posts/2/Gross-IMG_5012.jpeg" height="936" width="1280" alt=""  sizes="100vw" srcset="https://github.com/creativeer/publii-test.git/media/posts/2/responsive/Gross-IMG_5012-xs.jpeg 300w ,https://github.com/creativeer/publii-test.git/media/posts/2/responsive/Gross-IMG_5012-sm.jpeg 480w ,https://github.com/creativeer/publii-test.git/media/posts/2/responsive/Gross-IMG_5012-md.jpeg 768w ,https://github.com/creativeer/publii-test.git/media/posts/2/responsive/Gross-IMG_5012-lg.jpeg 1024w ,https://github.com/creativeer/publii-test.git/media/posts/2/responsive/Gross-IMG_5012-xl.jpeg 1360w ,https://github.com/creativeer/publii-test.git/media/posts/2/responsive/Gross-IMG_5012-2xl.jpeg 1600w">
+      
+    </figure>
+
+  <ul>
+    <li>dfsfdsfdsfds</li><li>sdfsdfsdfds</li><li>sdfdsfsdfsd</li><li>dfsdfsdfds</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
